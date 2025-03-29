@@ -1,6 +1,3 @@
-Here's the English version of your README.md:
-
-```markdown
 # Duplicate File Cleaner
 
 A tool to remove duplicate files using MD5 hash comparison. Cross-platform compatible.
@@ -66,4 +63,3 @@ python3 remove_duplicates.py "/path/to/directory" -y
 | macOS         | Monterey 12.0+               |
 
 **Disclaimer:** Use this software at your own risk. The author is not responsible for data loss.
-```
